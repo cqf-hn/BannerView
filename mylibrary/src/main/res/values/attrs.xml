@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BannerView">
+        <attr name="DefaultScrollAction" format="enum">
+            <enum name="AUTO_SCROLL_TO_LEFT" value="0" />
+            <enum name="AUTO_SCROLL_TO_RIGHT" value="1" />
+        </attr>
+        <attr name="TurnOverLimitValue" format="float" />
+    </declare-styleable>
+</resources>
